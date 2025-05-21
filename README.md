@@ -51,13 +51,48 @@
 
   <div style="margin-top: 3rem;">
 
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=abrar00py&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="max-width: 100%; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" />
+   <!-- GitHub Stats Section -->
+<div style="max-width: 700px; margin: 2rem auto; font-family: 'Inter', sans-serif;">
 
-    <div style="margin-top: 1rem; display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar00py&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); max-width: 280px; width: 100%;" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar00py&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); max-width: 280px; width: 100%;" />
-    </div>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abrar00py&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    style="width: 100%; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"
+  />
+
+  <div
+    style="
+      margin-top: 1.5rem;
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      flex-wrap: wrap;
+    "
+  >
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=abrar00py&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+      style="
+        border-radius: 12px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        max-width: 280px;
+        width: 100%;
+      "
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar00py&layout=compact&theme=tokyonight&hide_border=true"
+      alt="Top Languages"
+      style="
+        border-radius: 12px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        max-width: 280px;
+        width: 100%;
+      "
+    />
+  </div>
+
+</div>
+
   </div>
 
 </div>
